@@ -1,0 +1,7 @@
+C:\Source\UnitTests\TestsCourse\TestsCourse\obj\Debug\net5.0\TestsCourse.csproj.AssemblyReference.cache
+C:\Source\UnitTests\TestsCourse\TestsCourse\obj\Debug\net5.0\TestsCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\UnitTests\TestsCourse\TestsCourse\obj\Debug\net5.0\TestsCourse.AssemblyInfoInputs.cache
+C:\Source\UnitTests\TestsCourse\TestsCourse\obj\Debug\net5.0\TestsCourse.AssemblyInfo.cs
+C:\Source\UnitTests\TestsCourse\TestsCourse\obj\Debug\net5.0\TestsCourse.csproj.CoreCompileInputs.cache
+C:\Source\UnitTests\TestsCourse\TestsCourse\obj\Debug\net5.0\TestsCourse.MvcApplicationPartsAssemblyInfo.cs
+C:\Source\UnitTests\TestsCourse\TestsCourse\obj\Debug\net5.0\TestsCourse.MvcApplicationPartsAssemblyInfo.cache

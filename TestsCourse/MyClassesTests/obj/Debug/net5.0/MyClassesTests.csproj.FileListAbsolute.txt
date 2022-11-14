@@ -1,0 +1,6 @@
+C:\Source\UnitTests\TestsCourse\MyClassesTests\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Source\UnitTests\TestsCourse\MyClassesTests\obj\Debug\net5.0\MyClassesTests.csproj.AssemblyReference.cache
+C:\Source\UnitTests\TestsCourse\MyClassesTests\obj\Debug\net5.0\MyClassesTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\UnitTests\TestsCourse\MyClassesTests\obj\Debug\net5.0\MyClassesTests.AssemblyInfoInputs.cache
+C:\Source\UnitTests\TestsCourse\MyClassesTests\obj\Debug\net5.0\MyClassesTests.AssemblyInfo.cs
+C:\Source\UnitTests\TestsCourse\MyClassesTests\obj\Debug\net5.0\MyClassesTests.csproj.CoreCompileInputs.cache
